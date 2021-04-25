@@ -1,0 +1,261 @@
+Month,FC,Division,Region,District,Volume,Type
+4/1/2021,FC1,D1,R1,District1,45,Actuals
+5/1/2021,FC1,D1,R1,District1,50,Actuals
+6/1/2021,FC1,D1,R1,District1,29,Actuals
+7/1/2021,FC1,D1,R1,District1,12,Actuals
+8/1/2021,FC1,D1,R1,District1,17,Actuals
+9/1/2021,FC1,D1,R1,District1,24,Actuals
+10/1/2021,FC1,D1,R1,District1,18,Actuals
+11/1/2021,FC1,D1,R1,District1,46,Actuals
+12/1/2021,FC1,D1,R1,District1,14,Actuals
+1/1/2022,FC1,D1,R1,District1,2,Forecast 8+4
+2/1/2022,FC1,D1,R1,District1,15,Forecast 8+4
+3/1/2022,FC1,D1,R1,District1,43,Forecast 9+3
+4/1/2022,FC1,D1,R1,District1,14,Forecast 9+3
+4/1/2021,FC1,D1,R1,District2,35,Actuals
+5/1/2021,FC1,D1,R1,District2,32,Actuals
+6/1/2021,FC1,D1,R1,District2,6,Actuals
+7/1/2021,FC1,D1,R1,District2,20,Actuals
+8/1/2021,FC1,D1,R1,District2,13,Actuals
+9/1/2021,FC1,D1,R1,District2,49,Actuals
+10/1/2021,FC1,D1,R1,District2,5,Actuals
+11/1/2021,FC1,D1,R1,District2,42,Actuals
+12/1/2021,FC1,D1,R1,District2,12,Actuals
+1/1/2022,FC1,D1,R1,District2,11,Forecast 8+4
+2/1/2022,FC1,D1,R1,District2,13,Forecast 8+4
+3/1/2022,FC1,D1,R1,District2,16,Forecast 9+3
+4/1/2022,FC1,D1,R1,District2,11,Forecast 9+3
+4/1/2021,FC1,D1,R2,District3,15,Actuals
+5/1/2021,FC1,D1,R2,District3,32,Actuals
+6/1/2021,FC1,D1,R2,District3,5,Actuals
+7/1/2021,FC1,D1,R2,District3,28,Actuals
+8/1/2021,FC1,D1,R2,District3,47,Actuals
+9/1/2021,FC1,D1,R2,District3,31,Actuals
+10/1/2021,FC1,D1,R2,District3,3,Actuals
+11/1/2021,FC1,D1,R2,District3,2,Actuals
+12/1/2021,FC1,D1,R2,District3,22,Actuals
+1/1/2022,FC1,D1,R2,District3,44,Forecast 8+4
+2/1/2022,FC1,D1,R2,District3,10,Forecast 8+4
+3/1/2022,FC1,D1,R2,District3,18,Forecast 9+3
+4/1/2022,FC1,D1,R2,District3,31,Forecast 9+3
+4/1/2021,FC1,D1,R2,District4,13,Actuals
+5/1/2021,FC1,D1,R2,District4,28,Actuals
+6/1/2021,FC1,D1,R2,District4,38,Actuals
+7/1/2021,FC1,D1,R2,District4,38,Actuals
+8/1/2021,FC1,D1,R2,District4,7,Actuals
+9/1/2021,FC1,D1,R2,District4,10,Actuals
+10/1/2021,FC1,D1,R2,District4,26,Actuals
+11/1/2021,FC1,D1,R2,District4,22,Actuals
+12/1/2021,FC1,D1,R2,District4,25,Actuals
+1/1/2022,FC1,D1,R2,District4,44,Forecast 8+4
+2/1/2022,FC1,D1,R2,District4,43,Forecast 8+4
+3/1/2022,FC1,D1,R2,District4,16,Forecast 9+3
+4/1/2022,FC1,D1,R2,District4,31,Forecast 9+3
+4/1/2021,FC1,D1,R2,District5,21,Actuals
+5/1/2021,FC1,D1,R2,District5,44,Actuals
+6/1/2021,FC1,D1,R2,District5,34,Actuals
+7/1/2021,FC1,D1,R2,District5,35,Actuals
+8/1/2021,FC1,D1,R2,District5,26,Actuals
+9/1/2021,FC1,D1,R2,District5,13,Actuals
+10/1/2021,FC1,D1,R2,District5,17,Actuals
+11/1/2021,FC1,D1,R2,District5,20,Actuals
+12/1/2021,FC1,D1,R2,District5,7,Actuals
+1/1/2022,FC1,D1,R2,District5,18,Forecast 8+4
+2/1/2022,FC1,D1,R2,District5,28,Forecast 8+4
+3/1/2022,FC1,D1,R2,District5,44,Forecast 9+3
+4/1/2022,FC1,D1,R2,District5,6,Forecast 9+3
+4/1/2021,FC1,D2,R3,District6,45,Actuals
+5/1/2021,FC1,D2,R3,District6,18,Actuals
+6/1/2021,FC1,D2,R3,District6,1,Actuals
+7/1/2021,FC1,D2,R3,District6,23,Actuals
+8/1/2021,FC1,D2,R3,District6,2,Actuals
+9/1/2021,FC1,D2,R3,District6,2,Actuals
+10/1/2021,FC1,D2,R3,District6,28,Actuals
+11/1/2021,FC1,D2,R3,District6,34,Actuals
+12/1/2021,FC1,D2,R3,District6,50,Actuals
+1/1/2022,FC1,D2,R3,District6,36,Forecast 8+4
+2/1/2022,FC1,D2,R3,District6,36,Forecast 8+4
+3/1/2022,FC1,D2,R3,District6,28,Forecast 9+3
+4/1/2022,FC1,D2,R3,District6,48,Forecast 9+3
+4/1/2021,FC1,D2,R3,District7,28,Actuals
+5/1/2021,FC1,D2,R3,District7,44,Actuals
+6/1/2021,FC1,D2,R3,District7,13,Actuals
+7/1/2021,FC1,D2,R3,District7,2,Actuals
+8/1/2021,FC1,D2,R3,District7,8,Actuals
+9/1/2021,FC1,D2,R3,District7,39,Actuals
+10/1/2021,FC1,D2,R3,District7,19,Actuals
+11/1/2021,FC1,D2,R3,District7,34,Actuals
+12/1/2021,FC1,D2,R3,District7,8,Actuals
+1/1/2022,FC1,D2,R3,District7,8,Forecast 8+4
+2/1/2022,FC1,D2,R3,District7,16,Forecast 8+4
+3/1/2022,FC1,D2,R3,District7,42,Forecast 9+3
+4/1/2022,FC1,D2,R3,District7,20,Forecast 9+3
+4/1/2021,FC1,D2,R4,District8,35,Actuals
+5/1/2021,FC1,D2,R4,District8,42,Actuals
+6/1/2021,FC1,D2,R4,District8,28,Actuals
+7/1/2021,FC1,D2,R4,District8,50,Actuals
+8/1/2021,FC1,D2,R4,District8,34,Actuals
+9/1/2021,FC1,D2,R4,District8,3,Actuals
+10/1/2021,FC1,D2,R4,District8,19,Actuals
+11/1/2021,FC1,D2,R4,District8,49,Actuals
+12/1/2021,FC1,D2,R4,District8,37,Actuals
+1/1/2022,FC1,D2,R4,District8,5,Forecast 8+4
+2/1/2022,FC1,D2,R4,District8,15,Forecast 8+4
+3/1/2022,FC1,D2,R4,District8,4,Forecast 9+3
+4/1/2022,FC1,D2,R4,District8,33,Forecast 9+3
+4/1/2021,FC1,D2,R4,District9,41,Actuals
+5/1/2021,FC1,D2,R4,District9,44,Actuals
+6/1/2021,FC1,D2,R4,District9,20,Actuals
+7/1/2021,FC1,D2,R4,District9,39,Actuals
+8/1/2021,FC1,D2,R4,District9,43,Actuals
+9/1/2021,FC1,D2,R4,District9,11,Actuals
+10/1/2021,FC1,D2,R4,District9,20,Actuals
+11/1/2021,FC1,D2,R4,District9,13,Actuals
+12/1/2021,FC1,D2,R4,District9,20,Actuals
+1/1/2022,FC1,D2,R4,District9,11,Forecast 8+4
+2/1/2022,FC1,D2,R4,District9,18,Forecast 8+4
+3/1/2022,FC1,D2,R4,District9,15,Forecast 9+3
+4/1/2022,FC1,D2,R4,District9,36,Forecast 9+3
+4/1/2021,FC1,D2,R4,District10,4,Actuals
+5/1/2021,FC1,D2,R4,District10,19,Actuals
+6/1/2021,FC1,D2,R4,District10,5,Actuals
+7/1/2021,FC1,D2,R4,District10,44,Actuals
+8/1/2021,FC1,D2,R4,District10,37,Actuals
+9/1/2021,FC1,D2,R4,District10,22,Actuals
+10/1/2021,FC1,D2,R4,District10,17,Actuals
+11/1/2021,FC1,D2,R4,District10,21,Actuals
+12/1/2021,FC1,D2,R4,District10,50,Actuals
+1/1/2022,FC1,D2,R4,District10,24,Forecast 8+4
+2/1/2022,FC1,D2,R4,District10,40,Forecast 8+4
+3/1/2022,FC1,D2,R4,District10,39,Forecast 9+3
+4/1/2022,FC1,D2,R4,District10,8,Forecast 9+3
+4/1/2021,FC2,D1,R1,District1,37,Actuals
+5/1/2021,FC2,D1,R1,District1,19,Actuals
+6/1/2021,FC2,D1,R1,District1,40,Actuals
+7/1/2021,FC2,D1,R1,District1,18,Actuals
+8/1/2021,FC2,D1,R1,District1,22,Actuals
+9/1/2021,FC2,D1,R1,District1,1,Actuals
+10/1/2021,FC2,D1,R1,District1,9,Actuals
+11/1/2021,FC2,D1,R1,District1,13,Actuals
+12/1/2021,FC2,D1,R1,District1,18,Actuals
+1/1/2022,FC2,D1,R1,District1,5,Forecast 8+4
+2/1/2022,FC2,D1,R1,District1,11,Forecast 8+4
+3/1/2022,FC2,D1,R1,District1,3,Forecast 9+3
+4/1/2022,FC2,D1,R1,District1,15,Forecast 9+3
+4/1/2021,FC2,D1,R1,District2,14,Actuals
+5/1/2021,FC2,D1,R1,District2,28,Actuals
+6/1/2021,FC2,D1,R1,District2,3,Actuals
+7/1/2021,FC2,D1,R1,District2,33,Actuals
+8/1/2021,FC2,D1,R1,District2,43,Actuals
+9/1/2021,FC2,D1,R1,District2,50,Actuals
+10/1/2021,FC2,D1,R1,District2,43,Actuals
+11/1/2021,FC2,D1,R1,District2,18,Actuals
+12/1/2021,FC2,D1,R1,District2,12,Actuals
+1/1/2022,FC2,D1,R1,District2,42,Forecast 8+4
+2/1/2022,FC2,D1,R1,District2,38,Forecast 8+4
+3/1/2022,FC2,D1,R1,District2,46,Forecast 9+3
+4/1/2022,FC2,D1,R1,District2,3,Forecast 9+3
+4/1/2021,FC2,D1,R2,District3,39,Actuals
+5/1/2021,FC2,D1,R2,District3,21,Actuals
+6/1/2021,FC2,D1,R2,District3,41,Actuals
+7/1/2021,FC2,D1,R2,District3,13,Actuals
+8/1/2021,FC2,D1,R2,District3,25,Actuals
+9/1/2021,FC2,D1,R2,District3,30,Actuals
+10/1/2021,FC2,D1,R2,District3,22,Actuals
+11/1/2021,FC2,D1,R2,District3,1,Actuals
+12/1/2021,FC2,D1,R2,District3,4,Actuals
+1/1/2022,FC2,D1,R2,District3,44,Forecast 8+4
+2/1/2022,FC2,D1,R2,District3,7,Forecast 8+4
+3/1/2022,FC2,D1,R2,District3,49,Forecast 9+3
+4/1/2022,FC2,D1,R2,District3,32,Forecast 9+3
+4/1/2021,FC2,D1,R2,District4,30,Actuals
+5/1/2021,FC2,D1,R2,District4,27,Actuals
+6/1/2021,FC2,D1,R2,District4,4,Actuals
+7/1/2021,FC2,D1,R2,District4,39,Actuals
+8/1/2021,FC2,D1,R2,District4,9,Actuals
+9/1/2021,FC2,D1,R2,District4,46,Actuals
+10/1/2021,FC2,D1,R2,District4,24,Actuals
+11/1/2021,FC2,D1,R2,District4,39,Actuals
+12/1/2021,FC2,D1,R2,District4,44,Actuals
+1/1/2022,FC2,D1,R2,District4,29,Forecast 8+4
+2/1/2022,FC2,D1,R2,District4,29,Forecast 8+4
+3/1/2022,FC2,D1,R2,District4,9,Forecast 9+3
+4/1/2022,FC2,D1,R2,District4,31,Forecast 9+3
+4/1/2021,FC2,D1,R2,District5,25,Actuals
+5/1/2021,FC2,D1,R2,District5,10,Actuals
+6/1/2021,FC2,D1,R2,District5,23,Actuals
+7/1/2021,FC2,D1,R2,District5,5,Actuals
+8/1/2021,FC2,D1,R2,District5,7,Actuals
+9/1/2021,FC2,D1,R2,District5,33,Actuals
+10/1/2021,FC2,D1,R2,District5,16,Actuals
+11/1/2021,FC2,D1,R2,District5,18,Actuals
+12/1/2021,FC2,D1,R2,District5,12,Actuals
+1/1/2022,FC2,D1,R2,District5,12,Forecast 8+4
+2/1/2022,FC2,D1,R2,District5,34,Forecast 8+4
+3/1/2022,FC2,D1,R2,District5,14,Forecast 9+3
+4/1/2022,FC2,D1,R2,District5,34,Forecast 9+3
+4/1/2021,FC2,D2,R3,District6,49,Actuals
+5/1/2021,FC2,D2,R3,District6,19,Actuals
+6/1/2021,FC2,D2,R3,District6,32,Actuals
+7/1/2021,FC2,D2,R3,District6,20,Actuals
+8/1/2021,FC2,D2,R3,District6,25,Actuals
+9/1/2021,FC2,D2,R3,District6,34,Actuals
+10/1/2021,FC2,D2,R3,District6,18,Actuals
+11/1/2021,FC2,D2,R3,District6,33,Actuals
+12/1/2021,FC2,D2,R3,District6,5,Actuals
+1/1/2022,FC2,D2,R3,District6,26,Forecast 8+4
+2/1/2022,FC2,D2,R3,District6,14,Forecast 8+4
+3/1/2022,FC2,D2,R3,District6,3,Forecast 9+3
+4/1/2022,FC2,D2,R3,District6,3,Forecast 9+3
+4/1/2021,FC2,D2,R3,District7,4,Actuals
+5/1/2021,FC2,D2,R3,District7,15,Actuals
+6/1/2021,FC2,D2,R3,District7,22,Actuals
+7/1/2021,FC2,D2,R3,District7,22,Actuals
+8/1/2021,FC2,D2,R3,District7,37,Actuals
+9/1/2021,FC2,D2,R3,District7,44,Actuals
+10/1/2021,FC2,D2,R3,District7,21,Actuals
+11/1/2021,FC2,D2,R3,District7,4,Actuals
+12/1/2021,FC2,D2,R3,District7,21,Actuals
+1/1/2022,FC2,D2,R3,District7,49,Forecast 8+4
+2/1/2022,FC2,D2,R3,District7,8,Forecast 8+4
+3/1/2022,FC2,D2,R3,District7,41,Forecast 9+3
+4/1/2022,FC2,D2,R3,District7,41,Forecast 9+3
+4/1/2021,FC2,D2,R4,District8,18,Actuals
+5/1/2021,FC2,D2,R4,District8,3,Actuals
+6/1/2021,FC2,D2,R4,District8,37,Actuals
+7/1/2021,FC2,D2,R4,District8,34,Actuals
+8/1/2021,FC2,D2,R4,District8,39,Actuals
+9/1/2021,FC2,D2,R4,District8,27,Actuals
+10/1/2021,FC2,D2,R4,District8,18,Actuals
+11/1/2021,FC2,D2,R4,District8,2,Actuals
+12/1/2021,FC2,D2,R4,District8,18,Actuals
+1/1/2022,FC2,D2,R4,District8,8,Forecast 8+4
+2/1/2022,FC2,D2,R4,District8,28,Forecast 8+4
+3/1/2022,FC2,D2,R4,District8,17,Forecast 9+3
+4/1/2022,FC2,D2,R4,District8,12,Forecast 9+3
+4/1/2021,FC2,D2,R4,District9,46,Actuals
+5/1/2021,FC2,D2,R4,District9,35,Actuals
+6/1/2021,FC2,D2,R4,District9,47,Actuals
+7/1/2021,FC2,D2,R4,District9,18,Actuals
+8/1/2021,FC2,D2,R4,District9,2,Actuals
+9/1/2021,FC2,D2,R4,District9,25,Actuals
+10/1/2021,FC2,D2,R4,District9,18,Actuals
+11/1/2021,FC2,D2,R4,District9,8,Actuals
+12/1/2021,FC2,D2,R4,District9,37,Actuals
+1/1/2022,FC2,D2,R4,District9,42,Forecast 8+4
+2/1/2022,FC2,D2,R4,District9,14,Forecast 8+4
+3/1/2022,FC2,D2,R4,District9,24,Forecast 9+3
+4/1/2022,FC2,D2,R4,District9,33,Forecast 9+3
+4/1/2021,FC2,D2,R4,District10,50,Actuals
+5/1/2021,FC2,D2,R4,District10,32,Actuals
+6/1/2021,FC2,D2,R4,District10,38,Actuals
+7/1/2021,FC2,D2,R4,District10,47,Actuals
+8/1/2021,FC2,D2,R4,District10,23,Actuals
+9/1/2021,FC2,D2,R4,District10,35,Actuals
+10/1/2021,FC2,D2,R4,District10,38,Actuals
+11/1/2021,FC2,D2,R4,District10,50,Actuals
+12/1/2021,FC2,D2,R4,District10,18,Actuals
+1/1/2022,FC2,D2,R4,District10,50,Forecast 8+4
+2/1/2022,FC2,D2,R4,District10,9,Forecast 8+4
+3/1/2022,FC2,D2,R4,District10,34,Forecast 9+3
+4/1/2022,FC2,D2,R4,District10,12,Forecast 9+3
